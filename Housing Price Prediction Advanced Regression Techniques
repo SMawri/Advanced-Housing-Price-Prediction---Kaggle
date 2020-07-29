@@ -1,0 +1,7 @@
+1 Problem definition
+The data presented in this challenge are widely used in data science education and illustrate a problem of regression. The variable we want to estimate is numeric.
+
+The solution for this competition will be based on XGBoost Regression Techniques.
+
+
+Using XGBoost Regression Techniques the solution provided helped me to achieve a Score of 0.12857 and to get in the top 15% contributor.
